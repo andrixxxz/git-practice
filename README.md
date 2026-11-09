@@ -1,4 +1,4 @@
-Git practice - Conflict B
+# Git practice - Team Project
 
 ## Usage
 Run the Python program using:
