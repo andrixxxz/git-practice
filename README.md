@@ -1,5 +1,4 @@
-
-# Git practice
+Git practice - Student B
 
 ## Usage
 Run the Python program using:
