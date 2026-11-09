@@ -1,4 +1,4 @@
-Git practice - Student B
+Git practice - Conflict B
 
 ## Usage
 Run the Python program using:
